@@ -74,21 +74,6 @@ Authentication: Firebase Authentication
 Tools: Git, GitHub, Postman / Insomnia
 
 
-## Technology Stack
-
-Frontend
-
-React.js – For building responsive web interfaces
-
-Flutter (optional) – For mobile application development
-
-HTML5, CSS3, JavaScript – Core UI development
-
-Backend
-
-Node.js (Express.js) – Server-side logic and APIs
-
-Database
 
 MongoDB / PostgreSQL – Storing station data, user data, and navigation info
 Git & GitHub – Version control
